@@ -1,0 +1,1 @@
+# control payload; real ci must fail on the stale generated file
